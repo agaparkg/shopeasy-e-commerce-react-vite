@@ -1,4 +1,3 @@
-// pages/Cart.js
 import React, { useState } from "react";
 import { capitalize, getLocalStorageCartItems } from "../assets/utils";
 
